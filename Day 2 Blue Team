@@ -1,7 +1,0 @@
-$ git remote add origin https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-CYBER-PT-02-2022-U-LOL.git
-# Set a new remote
-
-$ git remote -v
-# Verify new remote
-> origin https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-CYBER-PT-02-2022-U-LOL.git  (fetch)
-> origin https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-CYBER-PT-02-2022-U-LOL.git  (push)
