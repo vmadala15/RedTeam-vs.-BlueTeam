@@ -1,1 +1,0 @@
-# RedTeam-vs.-BlueTeam
